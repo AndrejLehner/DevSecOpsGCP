@@ -1,5 +1,5 @@
 steps:
     - name: 'ubuntu'
-      args: ['echo','Hello GCP, this is my first build to GC. Test logging']
+      args: ['echo','Hello GCP, this is my first build to GC. Last Test logging']
 options:
   logging: CLOUD_LOGGING_ONLY
